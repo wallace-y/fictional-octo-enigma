@@ -7,6 +7,7 @@
     "my-command": "./bin/my-command"
   },
   "scripts": {
+    "my-command": "my-command",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
